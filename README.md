@@ -35,5 +35,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soheil-programmer&show_icons=true&locale=en" alt="soheil-programmer" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-programmer&" alt="soheil-programmer" /></p>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
