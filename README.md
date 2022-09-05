@@ -31,8 +31,8 @@
 <p><a href="https://ko-fi.com/soheilvanaee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="soheilvanaee" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheil-programmer&show_icons=true&locale=en" alt="soheil-programmer" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soheil-programmer&show_icons=true&locale=en" alt="soheil-programmer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-programmer&" alt="soheil-programmer" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-programmer&" alt="soheil-programmer" /></p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
