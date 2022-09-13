@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm soheil vanaee</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soheil-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="soheil-programmer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soheil-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="angry-geek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soheil-programmer" alt="soheil-programmer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soheil-programmer" alt="angry-geek" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soheilvanaee" target="blank"><img src="https://img.shields.io/twitter/follow/soheilvanaee?logo=twitter&style=for-the-badge" alt="soheilvanaee" /></a> </p>
 
@@ -34,8 +34,8 @@
 
 <br>
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soheil-programmer&show_icons=true&locale=en" alt="soheil-programmer" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=angry-geek&show_icons=true&locale=en" alt="angry-geek" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-programmer&" alt="soheil-programmer" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=angry-geek&" alt="angry-geek" /></p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
